@@ -61,7 +61,11 @@ Provides functions for calculating and displaying total, mean, median, and mode 
 
 # Screenshots
 ![Alt text](/Screenshots/Screenshot1.jpeg?raw=true "BankGUI")
-
+![Alt text](/Screenshots/Screenshot2.jpeg?raw=true "Open File Option")
+![Alt text](/Screenshots/Screenshot3.jpeg?raw=true "Search Option")
+![Alt text](/Screenshots/Screenshot4.jpeg?raw=true "Insert Option")
+![Alt text](/Screenshots/Screenshot5.jpeg?raw=true "Screenshot5")
+![Alt text](/Screenshots/Screenshot6.jpeg?raw=true "Screenshot6")
 # Dependencies
 `Java Swing Library`
 
