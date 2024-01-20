@@ -60,7 +60,7 @@ Provides functions for calculating and displaying total, mean, median, and mode 
 - Use the "Edit" menu and select "Insert" to prompt for a new monetary amount. The GUI will display modified entries with the inserted amount.
 
 # Screenshots
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/Screenshots/Screenshot1.jpeg?raw=true "BankGUI")
 
 # Dependencies
 `Java Swing Library`
