@@ -1,5 +1,6 @@
 # Bank Project
-##Description
+## Description
+
 The "Bank" project is a Java application that provides a graphical user interface (GUI) for managing financial entries. It allows users to open files containing monetary data, display entries, and perform operations such as searching and inserting entries.
 
 # How to Run
